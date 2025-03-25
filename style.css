@@ -1,0 +1,26 @@
+table, th, td {
+    border: 3px solid black;
+    border-collapse: separate;
+    border-collapse: collapse;
+    font-style: oblique;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    text-align: center;
+ 
+ }
+ th {
+     background-color: rgb(104, 170, 228);
+ }
+ td {
+     height: 30px;
+     width: 200px;
+     vertical-align: top-middle;
+     vertical-align: bottom;
+     vertical-align: middle;
+ }
+ .avatar {
+    vertical-align: middle;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+  }
